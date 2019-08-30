@@ -1,0 +1,3 @@
+shabana shaik
+good
+Output was already redirected to: example3.txt
